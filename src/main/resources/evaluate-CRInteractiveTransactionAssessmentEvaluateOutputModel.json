@@ -1,0 +1,8 @@
+{
+  "transactionAuthorizationResult" : "transactionAuthorizationResult",
+  "transactionAuthorizationGuidance" : "transactionAuthorizationGuidance",
+  "interactiveTransactionAssessmentInstanceReference" : "ITAIR727720",
+  "interactiveTransactionAssessmentEvaluateActionReference" : "ITAEAR761543",
+  "interactiveTransactionAssessmentEvaluateActionRecord" : {},
+  "interactiveTransactionAssessmentInstanceStatus" : "interactiveTransactionAssessmentInstanceStatus"
+}

@@ -1,0 +1,53 @@
+{
+  "customerContactResult" : "customerContactResult",
+  "customerContactRecordReference" : "CCRR778265",
+  "interactiveTransactionAssessmentRetrieveActionTaskReference" : "ITARATR702105",
+  "customerContactRecord" : {
+    "customerContactRecordRoutingSelectionStatus" : "customerContactRecordRoutingSelectionStatus",
+    "customerContactRecordServicingResourceReference" : "777016",
+    "customerContactRecordServicingEventHistory" : "customerContactRecordServicingEventHistory",
+    "customerContactRecordServicingPositionReference" : "731709",
+    "customerContactRecordActivityRecord" : {
+      "customerContactDialogueRecord" : {
+        "contactDialogueScript" : "contactDialogueScript",
+        "contactDialogueSessionMechanism" : "contactDialogueSessionMechanism",
+        "contactDialogueType" : "contactDialogueType",
+        "contactDialogueRecordSessionStartEndTime" : "09-22-2018",
+        "contactDialogueLog" : "contactDialogueLog",
+        "contactDialogueLogReference" : "737234",
+        "contactDialogueResult" : "contactDialogueResult"
+      },
+      "customerContactDialogueReference" : "759632"
+    },
+    "customerContactRecordContactDevice" : "customerContactRecordContactDevice",
+    "customerContactRecordServicingRequest" : "customerContactRecordServicingRequest",
+    "customerContactRecordCustomerReference" : "710442",
+    "customerContactRecordAuthenticationStatus" : "customerContactRecordAuthenticationStatus",
+    "customerContactRecordMenuSelection" : "customerContactRecordMenuSelection"
+  },
+  "channelActivityHistoryReportFromto" : "channelActivityHistoryReportFromto",
+  "employeeReference" : "ER707517",
+  "proposedTransactionValue" : "proposedTransactionValue",
+  "interactiveTransactionAssessmentInstanceReportRecord" : {
+    "interactiveTransactionAssessmentInstanceReportData" : "interactiveTransactionAssessmentInstanceReportData",
+    "interactiveTransactionAssessmentInstanceReportType" : "interactiveTransactionAssessmentInstanceReportType",
+    "interactiveTransactionAssessmentInstanceReport" : {}
+  },
+  "productReference" : "PR734654",
+  "transactionAuthorizationGuidance" : "transactionAuthorizationGuidance",
+  "customerContactRecordDuration" : "customerContactRecordDuration",
+  "productInstanceReference" : "PIR740476",
+  "proposedTransactionType" : "proposedTransactionType",
+  "transactionAuthorizationResult" : "transactionAuthorizationResult",
+  "interactiveTransactionAssessmentInstanceAnalysis" : {
+    "interactiveTransactionAssessmentInstanceAnalysisData" : "interactiveTransactionAssessmentInstanceAnalysisData",
+    "interactiveTransactionAssessmentInstanceAnalysisReport" : {},
+    "interactiveTransactionAssessmentInstanceAnalysisReportType" : "interactiveTransactionAssessmentInstanceAnalysisReportType"
+  },
+  "customerReference" : "CR757834",
+  "customerContactActivityRecord" : {},
+  "channelActivityHistoryReport" : {},
+  "interactiveTransactionAssessmentRetrieveActionTaskRecord" : {},
+  "channelActivityHistoryReportReference" : "CAHRR723159",
+  "interactiveTransactionAssessmentRetrieveActionResponse" : "interactiveTransactionAssessmentRetrieveActionResponse"
+}

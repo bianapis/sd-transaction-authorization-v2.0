@@ -1,0 +1,41 @@
+{
+  "customerContactResult" : "customerContactResult",
+  "customerContactRecordReference" : "CCRR739859",
+  "customerContactRecord" : {
+    "customerContactRecordRoutingSelectionStatus" : "customerContactRecordRoutingSelectionStatus",
+    "customerContactRecordServicingResourceReference" : "746715",
+    "customerContactRecordServicingEventHistory" : "customerContactRecordServicingEventHistory",
+    "customerContactRecordServicingPositionReference" : "793037",
+    "customerContactRecordActivityRecord" : {
+      "customerContactDialogueRecord" : {
+        "contactDialogueScript" : "contactDialogueScript",
+        "contactDialogueSessionMechanism" : "contactDialogueSessionMechanism",
+        "contactDialogueType" : "contactDialogueType",
+        "contactDialogueRecordSessionStartEndTime" : "09-22-2018",
+        "contactDialogueLog" : "contactDialogueLog",
+        "contactDialogueLogReference" : "791499",
+        "contactDialogueResult" : "contactDialogueResult"
+      },
+      "customerContactDialogueReference" : "792119"
+    },
+    "customerContactRecordContactDevice" : "customerContactRecordContactDevice",
+    "customerContactRecordServicingRequest" : "customerContactRecordServicingRequest",
+    "customerContactRecordCustomerReference" : "722811",
+    "customerContactRecordAuthenticationStatus" : "customerContactRecordAuthenticationStatus",
+    "customerContactRecordMenuSelection" : "customerContactRecordMenuSelection"
+  },
+  "channelActivityHistoryReportFromto" : "channelActivityHistoryReportFromto",
+  "employeeReference" : "ER722769",
+  "proposedTransactionValue" : "proposedTransactionValue",
+  "productReference" : "PR781922",
+  "customerContactRecordDuration" : "customerContactRecordDuration",
+  "productInstanceReference" : "PIR759201",
+  "proposedTransactionType" : "proposedTransactionType",
+  "interactiveTransactionAssessmentUpdateActionTaskRecord" : {},
+  "customerReference" : "CR793487",
+  "updateResponseRecord" : {},
+  "customerContactActivityRecord" : {},
+  "channelActivityHistoryReport" : {},
+  "interactiveTransactionAssessmentUpdateActionTaskReference" : "ITAUATR720136",
+  "channelActivityHistoryReportReference" : "CAHRR791151"
+}
